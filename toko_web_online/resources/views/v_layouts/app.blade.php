@@ -508,31 +508,31 @@
                 <div id="home-slick">
                     <!-- banner -->
                     <div class="banner banner-1">
-                        <img src="{{ asset('frontend/img/banner01.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/banner/banner01.png') }}" alt="">
                         <div class="banner-caption text-center">
-                            <h1>Bags sale</h1>
-                            <h3 class="white-color font-weak">Up to 50% Discount</h3>
-                            <button class="primary-btn">Shop Now</button>
+                            <h1 class="primary-color">BRAND BAPE TERBARU</h1>
+                            <h3 class="white-color font-weak">DISKON SAMPAI 50%</h3>
+                            <button class="primary-btn">Belanja Sekarang</button>
                         </div>
                     </div>
                     <!-- /banner -->
 
                     <!-- banner -->
                     <div class="banner banner-1">
-                        <img src="{{ asset('frontend/img/banner02.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/banner/banner02.png') }}" alt="">
                         <div class="banner-caption">
-                            <h1 class="primary-color">HOT DEAL<br><span class="white-color font-weak">Up to 50% OFF</span></h1>
-                            <button class="primary-btn">Shop Now</button>
+                            <h1 class="primary-color">DEAL BANGET HARGANYA<br><span class="white-color font-weak">SAMPAI 50%</span></h1>
+                            <button class="primary-btn">Belanja Sekarang</button>
                         </div>
                     </div>
                     <!-- /banner -->
 
                     <!-- banner -->
                     <div class="banner banner-1">
-                        <img src="{{ asset('frontend/img/banner03.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/banner/banner03.png') }}" alt="">
                         <div class="banner-caption">
-                            <h1 class="white-color">New Product <span>Collection</span></h1>
-                            <button class="primary-btn">Shop Now</button>
+                            <h1 class="white-color">Baju Dior<span>Collection</span></h1>
+                            <button class="primary-btn">Belanja Sekarang</button>
                         </div>
                     </div>
                     <!-- /banner -->
@@ -597,12 +597,11 @@
                     <!-- /aside widget -->
                     <!-- aside widget -->
                     <div class="aside">
-                        <h3 class="aside-title">Filter by Brand</h3>
+                        <h3 class="aside-title">Kategori</h3>
                         <ul class="list-links">
-                            <li><a href="#">Nike</a></li>
-                            <li><a href="#">Adidas</a></li>
-                            <li><a href="#">Polo</a></li>
-                            <li><a href="#">Lacost</a></li>
+                            <li><a href="#">Bape</a></li>
+                            <li><a href="#">Dior</a></li>
+                            <li><a href="#">LV</a></li>
                         </ul>
                     </div>
                     <!-- /aside widget -->
